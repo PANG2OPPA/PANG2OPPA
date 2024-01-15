@@ -1,9 +1,8 @@
+
+<div align=center> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KIMHYUNBEEN&fontSize=90" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANG2OPPA&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=PANG2OPPA&show_icons=true">
-
- <div>👋기술스택👋</div>
+ <div>👋Tech Stack👋</div>
 <br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -28,10 +27,11 @@
   <br>
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonincheon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANG2OPPA&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonincheon&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PANG2OPPA&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonincheon&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PANG2OPPA&theme=nord_dark)
+</div>
