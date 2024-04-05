@@ -29,10 +29,11 @@
           <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white">
           </div>
     </div>
+    <br/>
     
         
     
-
+<div align="center">
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANG2OPPA&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
@@ -41,6 +42,7 @@
 </a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PANG2OPPA&theme=nord_dark)
+</div>
 </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
