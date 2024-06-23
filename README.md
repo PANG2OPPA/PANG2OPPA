@@ -28,12 +28,6 @@
 
 <br/>
 <br/>
-<a href="https://solved.ac/hb8509">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=hb8509" alt="Solved.ac Profile">
-</a>
-
-<br/>
-<br/>
     
 <div align="center">
 <a href="s">
