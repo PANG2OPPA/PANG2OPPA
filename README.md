@@ -28,6 +28,11 @@
 
 <br/>
 <br/>
+
+[![](https://github.com/PANG2OPPA/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/PANG2OPPA/github-programmers-rank.git)
+
+<br/>
+<br/>
     
 <div align="center">
 <a href="s">
