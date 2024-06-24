@@ -38,11 +38,6 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓Programmers Rank </h2>
 
 [![](https://github.com/PANG2OPPA/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/PANG2OPPA/github-programmers-rank.git)
-
-
-
-<br/>
-
 </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👨‍💻 Contact me </h2> <br> 
